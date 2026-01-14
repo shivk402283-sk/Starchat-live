@@ -1,0 +1,8 @@
+{
+  "name": "StarChat Live",
+  "description": "A premium random video calling platform with a built-in coin system, secure messaging, and high-quality girl-only profiles for real-time interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
