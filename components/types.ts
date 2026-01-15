@@ -17,7 +17,7 @@ export interface ChatMessage {
   timestamp: Date;
 }
 
-export type View = 'HOME' | 'MESSAGES' | 'PROFILE' | 'RECHARGE' | 'CALL' | 'AGE_GATING';
+export type View = 'HOME' | 'MESSAGES' | 'PROFILE' | 'RECHARGE' | 'CALL' | 'AGE_GATING' | 'ADMIN';
 
 export interface RechargeOption {
   amount: number;
